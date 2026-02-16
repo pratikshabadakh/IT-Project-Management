@@ -3,12 +3,12 @@
 
 A structured relational database system designed to manage IT projects, tasks, employees, and resource allocation efficiently.
 
-2️. Description / Purpose:
+1. Description / Purpose:
 
 This SQL-based system is built to manage IT projects by organizing employees, projects, tasks, and resource allocations within a structured relational database.
 It ensures proper planning, tracking, and optimization of resources to successfully deliver projects within defined timelines and constraints.
 
-3️. Tech Stack
+2. Tech Stack
 
 The project was built using the following technologies:
 🗄 Oracle SQL / MySQL
@@ -23,7 +23,7 @@ Constraints (PRIMARY KEY, FOREIGN KEY, NOT NULL)
 One-to-Many Relationships
 Schema Design
 
-4️. Data Source
+3. Data Source
 
 This project uses manually structured sample data for simulation purposes.
 Database includes 4 core tables:
@@ -39,7 +39,7 @@ One Task → Many Allocations
 
 This relational structure ensures data consistency and referential integrity.
 
-5. Features / Highlights:
+4. Features / Highlights:
 🔎 Business Problem
 In IT organizations, managing multiple projects, tracking tasks, and allocating employees efficiently can become complex. Without a structured system, issues like resource over-allocation, missed deadlines, and poor coordination may occur.
 
